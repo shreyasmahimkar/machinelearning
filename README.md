@@ -1,0 +1,1 @@
+Implementation of Machine Learning Algorithms like Decesion Trees, Regression Trees, Linear Regression, Ridge Regression, Logistic Regression, Gradient Descent, Neural Nets, Boosting, K means Clustering.
